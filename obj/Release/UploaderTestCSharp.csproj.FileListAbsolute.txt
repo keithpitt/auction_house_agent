@@ -1,0 +1,7 @@
+C:\Projects\UploaderTestCSharp\UploaderTestCSharp\bin\Release\UploaderTestCSharp.exe
+C:\Projects\UploaderTestCSharp\UploaderTestCSharp\bin\Release\UploaderTestCSharp.pdb
+C:\Projects\UploaderTestCSharp\UploaderTestCSharp\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\UploaderTestCSharp\UploaderTestCSharp\obj\Release\UploaderTestCSharp.Properties.Resources.resources
+C:\Projects\UploaderTestCSharp\UploaderTestCSharp\obj\Release\UploaderTestCSharp.csproj.GenerateResource.Cache
+C:\Projects\UploaderTestCSharp\UploaderTestCSharp\obj\Release\UploaderTestCSharp.exe
+C:\Projects\UploaderTestCSharp\UploaderTestCSharp\obj\Release\UploaderTestCSharp.pdb
